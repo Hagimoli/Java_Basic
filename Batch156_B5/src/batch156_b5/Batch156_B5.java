@@ -26,7 +26,7 @@ public class Batch156_B5 {
 //            
 //        } catch (Exception e) {
 //        }
-
+        System.out.println("Hello everybody ^v^ !");
 
     }
     
